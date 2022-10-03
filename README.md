@@ -28,7 +28,6 @@ O projeto não está em desenvolvimento. Abaixo estão as definições de tarefa
 - [x] Make the project available online/Disponibilizar o projeto, online;
 
 
-
 ## 🤝 Contributor/Colaborador
 
 The creator, and developer, of this project:
